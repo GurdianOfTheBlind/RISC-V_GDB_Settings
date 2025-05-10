@@ -1,1 +1,1 @@
-#GDB user defined commands for RISC-V debugging.
+# GDB user defined commands for RISC-V debugging.
